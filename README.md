@@ -14,11 +14,34 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in autom
 
 ## Technologies & Tools
 
-- Languages: Python (Primary), AIML
-- Web Scraping: Beautiful Soup, Selenium
-- AI/ML: AIML, Natural Language Processing
-- Tools: Git, GitHub
-- Others: Web Technologies, Automation Scripts
+### Programming Languages
+- Python (Primary)
+- Java
+- JavaScript
+- HTML & CSS
+- AIML
+
+### Data Science & AI
+- NumPy
+- Pandas
+- AIML
+- Natural Language Processing
+
+### Web Technologies
+- HTML5 & CSS3
+- JavaScript
+- Web Scraping (Beautiful Soup, Selenium)
+
+### Databases
+- SQL
+- SQLite
+
+### Development Tools
+- Git & GitHub
+- VS Code
+- IntelliJ IDEA
+- Web Technologies
+- Automation Scripts
 
 ## Featured Projects
 
@@ -53,6 +76,8 @@ I'm always interested in collaborating on interesting projects, particularly in:
 - Automation
 - Chatbots
 - AI/ML Applications
+- Full Stack Development
+- Data Analysis
 
 ### Contact Information
 - 📧 Email: Shubhadeep1996@gmail.com
