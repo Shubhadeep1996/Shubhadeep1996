@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there! 👋 I'm Shubhadeep Naskar
 
-<!--
-**Shubhadeep1996/Shubhadeep1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with interests in automation, web scraping, and artificial intelligence.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 Passionate Software Developer
+- 💻 Technology Enthusiast
+- 🎓 Lifelong Learner
+- 🌟 Python Developer with expertise in automation and web scraping
+- 🤖 AI/ML Enthusiast
+- 🎓 Computer Science Graduate
+- 💡 Love creating practical solutions to automate daily tasks
+
+## Technologies & Tools
+
+- Languages: Python (Primary), AIML
+- Web Scraping: Beautiful Soup, Selenium
+- AI/ML: AIML, Natural Language Processing
+- Tools: Git, GitHub
+- Others: Web Technologies, Automation Scripts
+
+## Featured Projects
+
+### 1. [Python Web Scraping](https://github.com/Shubhadeep1996/Python_Webscraping)
+A comprehensive web scraping application built with Python. This project demonstrates my ability to:
+- Extract data from websites efficiently
+- Handle different types of web content
+- Process and organize scraped data
+
+### 2. [ChatBot Wiki](https://github.com/Shubhadeep1996/chatbotviki)
+My university final project - an intelligent chatbot built using Python and AIML. Features include:
+- Natural language processing capabilities
+- AIML-based response generation
+- Interactive user interface
+- Knowledge-base integration
+
+### 3. [AutoLogin Tryouts](https://github.com/Shubhadeep1996/Autologin_Tryouts)
+My first GitHub repository! An automation tool that demonstrates:
+- Automated login process implementation
+- Browser automation
+- Credential management
+- Time-saving solution for repetitive tasks
+
+## GitHub Stats
+
+![Shubhadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhadeep1996&show_icons=true&theme=radical)
+
+## Get in Touch
+
+I'm always interested in collaborating on interesting projects, particularly in:
+- Web Scraping
+- Automation
+- Chatbots
+- AI/ML Applications
+
+### Contact Information
+- 📧 Email: Shubhadeep1996@gmail.com
+- 💼 LinkedIn: [Shubhadeep Naskar](https://www.linkedin.com/in/shubhadeepnaskar/)
+- 📱 WhatsApp: +91-7595021134
+- 💻 GitHub: [@Shubhadeep1996](https://github.com/Shubhadeep1996)
+
+---
+
+⭐️ From [Shubhadeep1996](https://github.com/Shubhadeep1996)
