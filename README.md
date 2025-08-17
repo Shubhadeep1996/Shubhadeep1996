@@ -80,7 +80,8 @@ I'm always interested in collaborating on interesting projects, particularly in:
 - Data Analysis
 
 ### Contact Information
-- 📧 Email: Shubhadeep1996@gmail.com
+- 🌐 Portfolio: [shubhadeepnaskar.com](https://shubhadeepnaskar.com)
+- 📧 Email: Shubhadeepnaskar@shubhadeepnaskar.com
 - 💼 LinkedIn: [Shubhadeep Naskar](https://www.linkedin.com/in/shubhadeepnaskar/)
 - 📱 WhatsApp: +91-7595021134
 - 💻 GitHub: [@Shubhadeep1996](https://github.com/Shubhadeep1996)
